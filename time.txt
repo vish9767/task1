@@ -4,4 +4,10 @@ songs
 music
 new
 
+movies
+serial
+
+thanks
+
 done my changes
+
